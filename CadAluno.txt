@@ -1,7 +1,0 @@
-         Casdastro de Aluno
-
-
-RA:
-Nome:
-Telefone:
-e-mail:
