@@ -1,5 +1,7 @@
     Cadastro de Professor
 
-Matrícula:
+MatrÃ­cula:
 Nome:
 e-mail:
+Telefone:
+Disciplina que leciona:
